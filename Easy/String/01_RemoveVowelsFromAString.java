@@ -1,4 +1,5 @@
-/* Given a string S, remove the vowels 'a', 'e', 'i', 'o', and 'u' from it, and return the new string. */
+/* 	LeetCode 1119
+	Given a string S, remove the vowels 'a', 'e', 'i', 'o', and 'u' from it, and return the new string. */
 package easy.string;
 
 import java.util.Arrays;
