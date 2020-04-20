@@ -41,6 +41,8 @@ class Solution {
 			StringBuffer code = new StringBuffer();
 			for (char ch : word.toCharArray()) {
 				code.append(MORSE[ch - 'a']);
+				//int ascii = ch;
+				//code.append(MORSE[ascii-97]);
 			}
 			result.add(code.toString());
 		}
